@@ -1,6 +1,6 @@
 # Percent of unique names
 
-In this we will accomplish the second part where we will the most common names along with all the sum of names and will return the percent of unique names.  
+In this we will accomplish the second part where we will have the most common names along with all the sum of names and will return the percent of unique names.  
 
 ## Write a function `q04_top_in_each_year_2` that :
 - Takes the previous function and with Counter Function take the top common names `.most_common(25)`
