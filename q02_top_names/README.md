@@ -14,5 +14,5 @@ In this we will accomplish the second part of the exercise where we find the pop
 ### Returns:
 | Return | dtype | description |
 | --- | --- | --- |
-| variable_1 | str | string with above operations inculcated |
-| variable_2 | str | string with above operations inculcated |
+| variable_1 | List | List with above operations inculcated |
+| variable_2 | Lsit | List with above operations inculcated |
